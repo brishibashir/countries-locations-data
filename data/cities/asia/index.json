@@ -1,0 +1,265 @@
+{
+  "region": "asia",
+  "name": "Asia & Middle East",
+  "fileCount": 43,
+  "countries": [
+    {
+      "code": "PH",
+      "name": "Philippines",
+      "file": "part-015-cities-ph.json",
+      "cityCount": 5357
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "file": "part-016-cities-in.json",
+      "cityCount": 4198
+    },
+    {
+      "code": "CN",
+      "name": "China",
+      "file": "part-018-cities-cn.json",
+      "cityCount": 4133
+    },
+    {
+      "code": "IR",
+      "name": "Iran",
+      "file": "part-023-cities-ir.json",
+      "cityCount": 1847
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "file": "part-025-cities-jp.json",
+      "cityCount": 1655
+    },
+    {
+      "code": "TH",
+      "name": "Thailand",
+      "file": "part-030-cities-th.json",
+      "cityCount": 1241
+    },
+    {
+      "code": "TR",
+      "name": "Turkey",
+      "file": "part-036-cities-tr.json",
+      "cityCount": 980
+    },
+    {
+      "code": "ID",
+      "name": "Indonesia",
+      "file": "part-039-cities-id.json",
+      "cityCount": 799
+    },
+    {
+      "code": "VN",
+      "name": "Vietnam",
+      "file": "part-047-cities-vn.json",
+      "cityCount": 488
+    },
+    {
+      "code": "PK",
+      "name": "Pakistan",
+      "file": "part-050-cities-pk.json",
+      "cityCount": 456
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia",
+      "file": "part-053-cities-sa.json",
+      "cityCount": 399
+    },
+    {
+      "code": "YE",
+      "name": "Yemen",
+      "file": "part-057-cities-ye.json",
+      "cityCount": 339
+    },
+    {
+      "code": "AM",
+      "name": "Armenia",
+      "file": "part-061-cities-am.json",
+      "cityCount": 308
+    },
+    {
+      "code": "KR",
+      "name": "South Korea",
+      "file": "part-062-cities-kr.json",
+      "cityCount": 308
+    },
+    {
+      "code": "KZ",
+      "name": "Kazakhstan",
+      "file": "part-066-cities-kz.json",
+      "cityCount": 259
+    },
+    {
+      "code": "MY",
+      "name": "Malaysia",
+      "file": "part-070-cities-my.json",
+      "cityCount": 223
+    },
+    {
+      "code": "AZ",
+      "name": "Azerbaijan",
+      "file": "part-075-cities-az.json",
+      "cityCount": 180
+    },
+    {
+      "code": "EG",
+      "name": "Egypt",
+      "file": "part-077-cities-eg.json",
+      "cityCount": 163
+    },
+    {
+      "code": "IL",
+      "name": "Israel",
+      "file": "part-083-cities-il.json",
+      "cityCount": 150
+    },
+    {
+      "code": "LK",
+      "name": "Sri Lanka",
+      "file": "part-084-cities-lk.json",
+      "cityCount": 147
+    },
+    {
+      "code": "SY",
+      "name": "Syria",
+      "file": "part-089-cities-sy.json",
+      "cityCount": 142
+    },
+    {
+      "code": "IQ",
+      "name": "Iraq",
+      "file": "part-092-cities-iq.json",
+      "cityCount": 135
+    },
+    {
+      "code": "UZ",
+      "name": "Uzbekistan",
+      "file": "part-093-cities-uz.json",
+      "cityCount": 135
+    },
+    {
+      "code": "PS",
+      "name": "Palestine",
+      "file": "part-094-cities-ps.json",
+      "cityCount": 132
+    },
+    {
+      "code": "GE",
+      "name": "Georgia",
+      "file": "part-100-cities-ge.json",
+      "cityCount": 110
+    },
+    {
+      "code": "KH",
+      "name": "Cambodia",
+      "file": "part-102-cities-kh.json",
+      "cityCount": 107
+    },
+    {
+      "code": "AF",
+      "name": "Afghanistan",
+      "file": "part-104-cities-af.json",
+      "cityCount": 100
+    },
+    {
+      "code": "JO",
+      "name": "Jordan",
+      "file": "part-112-cities-jo.json",
+      "cityCount": 82
+    },
+    {
+      "code": "NP",
+      "name": "Nepal",
+      "file": "part-114-cities-np.json",
+      "cityCount": 77
+    },
+    {
+      "code": "MM",
+      "name": "Myanmar",
+      "file": "part-116-cities-mm.json",
+      "cityCount": 74
+    },
+    {
+      "code": "TJ",
+      "name": "Tajikistan",
+      "file": "part-123-cities-tj.json",
+      "cityCount": 71
+    },
+    {
+      "code": "BD",
+      "name": "Bangladesh",
+      "file": "part-126-cities-bd.json",
+      "cityCount": 64
+    },
+    {
+      "code": "KG",
+      "name": "Kyrgyzstan",
+      "file": "part-130-cities-kg.json",
+      "cityCount": 53
+    },
+    {
+      "code": "MN",
+      "name": "Mongolia",
+      "file": "part-136-cities-mn.json",
+      "cityCount": 40
+    },
+    {
+      "code": "TW",
+      "name": "Taiwan",
+      "file": "part-137-cities-tw.json",
+      "cityCount": 40
+    },
+    {
+      "code": "TM",
+      "name": "Turkmenistan",
+      "file": "part-141-cities-tm.json",
+      "cityCount": 30
+    },
+    {
+      "code": "AE",
+      "name": "United Arab Emirates",
+      "file": "part-142-cities-ae.json",
+      "cityCount": 30
+    },
+    {
+      "code": "OM",
+      "name": "Oman",
+      "file": "part-145-cities-om.json",
+      "cityCount": 28
+    },
+    {
+      "code": "LB",
+      "name": "Lebanon",
+      "file": "part-146-cities-lb.json",
+      "cityCount": 26
+    },
+    {
+      "code": "SG",
+      "name": "Singapore",
+      "file": "part-148-cities-sg.json",
+      "cityCount": 26
+    },
+    {
+      "code": "KW",
+      "name": "Kuwait",
+      "file": "part-149-cities-kw.json",
+      "cityCount": 25
+    },
+    {
+      "code": "QA",
+      "name": "Qatar",
+      "file": "part-158-cities-qa.json",
+      "cityCount": 15
+    },
+    {
+      "code": "BH",
+      "name": "Bahrain",
+      "file": "part-167-cities-bh.json",
+      "cityCount": 9
+    }
+  ]
+}
