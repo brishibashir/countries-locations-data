@@ -1,0 +1,241 @@
+{
+  "region": "europe",
+  "name": "Europe",
+  "fileCount": 39,
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France",
+      "file": "part-006-cities-fr.json",
+      "cityCount": 10534
+    },
+    {
+      "code": "IT",
+      "name": "Italy",
+      "file": "part-008-cities-it.json",
+      "cityCount": 9852
+    },
+    {
+      "code": "ES",
+      "name": "Spain",
+      "file": "part-010-cities-es.json",
+      "cityCount": 8405
+    },
+    {
+      "code": "RO",
+      "name": "Romania",
+      "file": "part-011-cities-ro.json",
+      "cityCount": 7949
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "file": "part-012-cities-de.json",
+      "cityCount": 7104
+    },
+    {
+      "code": "RU",
+      "name": "Russia",
+      "file": "part-014-cities-ru.json",
+      "cityCount": 5523
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "file": "part-019-cities-gb.json",
+      "cityCount": 3879
+    },
+    {
+      "code": "PL",
+      "name": "Poland",
+      "file": "part-020-cities-pl.json",
+      "cityCount": 2810
+    },
+    {
+      "code": "AT",
+      "name": "Austria",
+      "file": "part-021-cities-at.json",
+      "cityCount": 2360
+    },
+    {
+      "code": "UA",
+      "name": "Ukraine",
+      "file": "part-024-cities-ua.json",
+      "cityCount": 1819
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands",
+      "file": "part-026-cities-nl.json",
+      "cityCount": 1644
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland",
+      "file": "part-027-cities-ch.json",
+      "cityCount": 1507
+    },
+    {
+      "code": "CZ",
+      "name": "Czech Republic",
+      "file": "part-028-cities-cz.json",
+      "cityCount": 1355
+    },
+    {
+      "code": "PT",
+      "name": "Portugal",
+      "file": "part-029-cities-pt.json",
+      "cityCount": 1296
+    },
+    {
+      "code": "GR",
+      "name": "Greece",
+      "file": "part-033-cities-gr.json",
+      "cityCount": 1103
+    },
+    {
+      "code": "HU",
+      "name": "Hungary",
+      "file": "part-035-cities-hu.json",
+      "cityCount": 1074
+    },
+    {
+      "code": "SE",
+      "name": "Sweden",
+      "file": "part-038-cities-se.json",
+      "cityCount": 800
+    },
+    {
+      "code": "NO",
+      "name": "Norway",
+      "file": "part-040-cities-no.json",
+      "cityCount": 666
+    },
+    {
+      "code": "HR",
+      "name": "Croatia",
+      "file": "part-041-cities-hr.json",
+      "cityCount": 663
+    },
+    {
+      "code": "BE",
+      "name": "Belgium",
+      "file": "part-043-cities-be.json",
+      "cityCount": 549
+    },
+    {
+      "code": "BG",
+      "name": "Bulgaria",
+      "file": "part-045-cities-bg.json",
+      "cityCount": 504
+    },
+    {
+      "code": "FI",
+      "name": "Finland",
+      "file": "part-051-cities-fi.json",
+      "cityCount": 437
+    },
+    {
+      "code": "DK",
+      "name": "Denmark",
+      "file": "part-052-cities-dk.json",
+      "cityCount": 430
+    },
+    {
+      "code": "RS",
+      "name": "Serbia",
+      "file": "part-055-cities-rs.json",
+      "cityCount": 379
+    },
+    {
+      "code": "IE",
+      "name": "Ireland",
+      "file": "part-056-cities-ie.json",
+      "cityCount": 370
+    },
+    {
+      "code": "BY",
+      "name": "Belarus",
+      "file": "part-058-cities-by.json",
+      "cityCount": 329
+    },
+    {
+      "code": "SI",
+      "name": "Slovenia",
+      "file": "part-060-cities-si.json",
+      "cityCount": 312
+    },
+    {
+      "code": "SK",
+      "name": "Slovakia",
+      "file": "part-067-cities-sk.json",
+      "cityCount": 233
+    },
+    {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina",
+      "file": "part-068-cities-ba.json",
+      "cityCount": 232
+    },
+    {
+      "code": "MK",
+      "name": "North Macedonia",
+      "file": "part-073-cities-mk.json",
+      "cityCount": 194
+    },
+    {
+      "code": "EE",
+      "name": "Estonia",
+      "file": "part-078-cities-ee.json",
+      "cityCount": 162
+    },
+    {
+      "code": "LU",
+      "name": "LU",
+      "file": "part-087-cities-lu.json",
+      "cityCount": 144
+    },
+    {
+      "code": "AL",
+      "name": "Albania",
+      "file": "part-088-cities-al.json",
+      "cityCount": 143
+    },
+    {
+      "code": "LT",
+      "name": "Lithuania",
+      "file": "part-095-cities-lt.json",
+      "cityCount": 128
+    },
+    {
+      "code": "LV",
+      "name": "Latvia",
+      "file": "part-096-cities-lv.json",
+      "cityCount": 125
+    },
+    {
+      "code": "CY",
+      "name": "CY",
+      "file": "part-106-cities-cy.json",
+      "cityCount": 95
+    },
+    {
+      "code": "MT",
+      "name": "MT",
+      "file": "part-111-cities-mt.json",
+      "cityCount": 87
+    },
+    {
+      "code": "IS",
+      "name": "IS",
+      "file": "part-117-cities-is.json",
+      "cityCount": 73
+    },
+    {
+      "code": "MD",
+      "name": "MD",
+      "file": "part-120-cities-md.json",
+      "cityCount": 72
+    }
+  ]
+}
