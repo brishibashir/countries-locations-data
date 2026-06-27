@@ -1,0 +1,247 @@
+{
+  "region": "africa",
+  "name": "Africa",
+  "fileCount": 40,
+  "countries": [
+    {
+      "code": "NG",
+      "name": "Nigeria",
+      "file": "part-046-cities-ng.json",
+      "cityCount": 491
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa",
+      "file": "part-059-cities-za.json",
+      "cityCount": 314
+    },
+    {
+      "code": "TZ",
+      "name": "Tanzania",
+      "file": "part-063-cities-tz.json",
+      "cityCount": 303
+    },
+    {
+      "code": "DZ",
+      "name": "Algeria",
+      "file": "part-065-cities-dz.json",
+      "cityCount": 293
+    },
+    {
+      "code": "MA",
+      "name": "Morocco",
+      "file": "part-071-cities-ma.json",
+      "cityCount": 222
+    },
+    {
+      "code": "TN",
+      "name": "Tunisia",
+      "file": "part-076-cities-tn.json",
+      "cityCount": 165
+    },
+    {
+      "code": "KE",
+      "name": "Kenya",
+      "file": "part-085-cities-ke.json",
+      "cityCount": 145
+    },
+    {
+      "code": "ET",
+      "name": "Ethiopia",
+      "file": "part-086-cities-et.json",
+      "cityCount": 144
+    },
+    {
+      "code": "CM",
+      "name": "Cameroon",
+      "file": "part-090-cities-cm.json",
+      "cityCount": 139
+    },
+    {
+      "code": "GH",
+      "name": "Ghana",
+      "file": "part-098-cities-gh.json",
+      "cityCount": 121
+    },
+    {
+      "code": "ZW",
+      "name": "Zimbabwe",
+      "file": "part-101-cities-zw.json",
+      "cityCount": 109
+    },
+    {
+      "code": "GM",
+      "name": "Gambia",
+      "file": "part-103-cities-gm.json",
+      "cityCount": 104
+    },
+    {
+      "code": "CI",
+      "name": "Ivory Coast",
+      "file": "part-107-cities-ci.json",
+      "cityCount": 95
+    },
+    {
+      "code": "BF",
+      "name": "Burkina Faso",
+      "file": "part-108-cities-bf.json",
+      "cityCount": 92
+    },
+    {
+      "code": "SL",
+      "name": "Sierra Leone",
+      "file": "part-109-cities-sl.json",
+      "cityCount": 91
+    },
+    {
+      "code": "UG",
+      "name": "Uganda",
+      "file": "part-110-cities-ug.json",
+      "cityCount": 91
+    },
+    {
+      "code": "BW",
+      "name": "Botswana",
+      "file": "part-115-cities-bw.json",
+      "cityCount": 75
+    },
+    {
+      "code": "SN",
+      "name": "Senegal",
+      "file": "part-118-cities-sn.json",
+      "cityCount": 73
+    },
+    {
+      "code": "AO",
+      "name": "Angola",
+      "file": "part-119-cities-ao.json",
+      "cityCount": 72
+    },
+    {
+      "code": "NE",
+      "name": "Niger",
+      "file": "part-121-cities-ne.json",
+      "cityCount": 71
+    },
+    {
+      "code": "SD",
+      "name": "Sudan",
+      "file": "part-122-cities-sd.json",
+      "cityCount": 71
+    },
+    {
+      "code": "ZM",
+      "name": "Zambia",
+      "file": "part-124-cities-zm.json",
+      "cityCount": 71
+    },
+    {
+      "code": "CD",
+      "name": "DR Congo",
+      "file": "part-125-cities-cd.json",
+      "cityCount": 67
+    },
+    {
+      "code": "MW",
+      "name": "Malawi",
+      "file": "part-127-cities-mw.json",
+      "cityCount": 61
+    },
+    {
+      "code": "GN",
+      "name": "Guinea",
+      "file": "part-128-cities-gn.json",
+      "cityCount": 54
+    },
+    {
+      "code": "LY",
+      "name": "Libya",
+      "file": "part-129-cities-ly.json",
+      "cityCount": 54
+    },
+    {
+      "code": "SO",
+      "name": "Somalia",
+      "file": "part-131-cities-so.json",
+      "cityCount": 51
+    },
+    {
+      "code": "TD",
+      "name": "Chad",
+      "file": "part-132-cities-td.json",
+      "cityCount": 49
+    },
+    {
+      "code": "NA",
+      "name": "Namibia",
+      "file": "part-133-cities-na.json",
+      "cityCount": 48
+    },
+    {
+      "code": "ML",
+      "name": "Mali",
+      "file": "part-134-cities-ml.json",
+      "cityCount": 47
+    },
+    {
+      "code": "MR",
+      "name": "Mauritania",
+      "file": "part-135-cities-mr.json",
+      "cityCount": 42
+    },
+    {
+      "code": "MZ",
+      "name": "Mozambique",
+      "file": "part-138-cities-mz.json",
+      "cityCount": 38
+    },
+    {
+      "code": "BJ",
+      "name": "Benin",
+      "file": "part-140-cities-bj.json",
+      "cityCount": 36
+    },
+    {
+      "code": "CV",
+      "name": "Cape Verde",
+      "file": "part-143-cities-cv.json",
+      "cityCount": 28
+    },
+    {
+      "code": "GA",
+      "name": "Gabon",
+      "file": "part-144-cities-ga.json",
+      "cityCount": 28
+    },
+    {
+      "code": "TG",
+      "name": "Togo",
+      "file": "part-151-cities-tg.json",
+      "cityCount": 22
+    },
+    {
+      "code": "LR",
+      "name": "Liberia",
+      "file": "part-155-cities-lr.json",
+      "cityCount": 18
+    },
+    {
+      "code": "DJ",
+      "name": "Djibouti",
+      "file": "part-163-cities-dj.json",
+      "cityCount": 12
+    },
+    {
+      "code": "RW",
+      "name": "Rwanda",
+      "file": "part-164-cities-rw.json",
+      "cityCount": 12
+    },
+    {
+      "code": "ER",
+      "name": "Eritrea",
+      "file": "part-165-cities-er.json",
+      "cityCount": 11
+    }
+  ]
+}
