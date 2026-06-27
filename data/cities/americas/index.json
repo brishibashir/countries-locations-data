@@ -1,0 +1,211 @@
+{
+  "region": "americas",
+  "name": "Americas",
+  "fileCount": 34,
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States",
+      "file": "part-004-cities-us.json",
+      "cityCount": 16731
+    },
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "file": "part-009-cities-mx.json",
+      "cityCount": 9321
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "file": "part-013-cities-br.json",
+      "cityCount": 5629
+    },
+    {
+      "code": "UY",
+      "name": "Uruguay",
+      "file": "part-022-cities-uy.json",
+      "cityCount": 2010
+    },
+    {
+      "code": "AR",
+      "name": "Argentina",
+      "file": "part-031-cities-ar.json",
+      "cityCount": 1136
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "file": "part-032-cities-co.json",
+      "cityCount": 1122
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "file": "part-034-cities-ca.json",
+      "cityCount": 1080
+    },
+    {
+      "code": "JM",
+      "name": "Jamaica",
+      "file": "part-037-cities-jm.json",
+      "cityCount": 837
+    },
+    {
+      "code": "PA",
+      "name": "Panama",
+      "file": "part-042-cities-pa.json",
+      "cityCount": 551
+    },
+    {
+      "code": "HN",
+      "name": "Honduras",
+      "file": "part-044-cities-hn.json",
+      "cityCount": 545
+    },
+    {
+      "code": "PE",
+      "name": "Peru",
+      "file": "part-048-cities-pe.json",
+      "cityCount": 485
+    },
+    {
+      "code": "LC",
+      "name": "Saint Lucia",
+      "file": "part-049-cities-lc.json",
+      "cityCount": 479
+    },
+    {
+      "code": "GT",
+      "name": "Guatemala",
+      "file": "part-054-cities-gt.json",
+      "cityCount": 382
+    },
+    {
+      "code": "CL",
+      "name": "Chile",
+      "file": "part-064-cities-cl.json",
+      "cityCount": 300
+    },
+    {
+      "code": "BO",
+      "name": "Bolivia",
+      "file": "part-069-cities-bo.json",
+      "cityCount": 228
+    },
+    {
+      "code": "DO",
+      "name": "Dominican Republic",
+      "file": "part-072-cities-do.json",
+      "cityCount": 207
+    },
+    {
+      "code": "CU",
+      "name": "Cuba",
+      "file": "part-074-cities-cu.json",
+      "cityCount": 187
+    },
+    {
+      "code": "CR",
+      "name": "Costa Rica",
+      "file": "part-079-cities-cr.json",
+      "cityCount": 159
+    },
+    {
+      "code": "NI",
+      "name": "Nicaragua",
+      "file": "part-081-cities-ni.json",
+      "cityCount": 155
+    },
+    {
+      "code": "PY",
+      "name": "Paraguay",
+      "file": "part-082-cities-py.json",
+      "cityCount": 152
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela",
+      "file": "part-091-cities-ve.json",
+      "cityCount": 136
+    },
+    {
+      "code": "HT",
+      "name": "Haiti",
+      "file": "part-097-cities-ht.json",
+      "cityCount": 124
+    },
+    {
+      "code": "EC",
+      "name": "Ecuador",
+      "file": "part-099-cities-ec.json",
+      "cityCount": 114
+    },
+    {
+      "code": "TT",
+      "name": "TT",
+      "file": "part-150-cities-tt.json",
+      "cityCount": 25
+    },
+    {
+      "code": "BS",
+      "name": "BS",
+      "file": "part-152-cities-bs.json",
+      "cityCount": 21
+    },
+    {
+      "code": "DM",
+      "name": "DM",
+      "file": "part-156-cities-dm.json",
+      "cityCount": 17
+    },
+    {
+      "code": "GY",
+      "name": "GY",
+      "file": "part-159-cities-gy.json",
+      "cityCount": 14
+    },
+    {
+      "code": "BZ",
+      "name": "BZ",
+      "file": "part-160-cities-bz.json",
+      "cityCount": 13
+    },
+    {
+      "code": "KN",
+      "name": "KN",
+      "file": "part-161-cities-kn.json",
+      "cityCount": 13
+    },
+    {
+      "code": "SR",
+      "name": "SR",
+      "file": "part-162-cities-sr.json",
+      "cityCount": 13
+    },
+    {
+      "code": "AG",
+      "name": "AG",
+      "file": "part-166-cities-ag.json",
+      "cityCount": 9
+    },
+    {
+      "code": "VC",
+      "name": "VC",
+      "file": "part-168-cities-vc.json",
+      "cityCount": 9
+    },
+    {
+      "code": "BB",
+      "name": "BB",
+      "file": "part-171-cities-bb.json",
+      "cityCount": 7
+    },
+    {
+      "code": "GD",
+      "name": "GD",
+      "file": "part-172-cities-gd.json",
+      "cityCount": 7
+    }
+  ]
+}
