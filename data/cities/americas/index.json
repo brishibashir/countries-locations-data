@@ -1,13 +1,16 @@
 {
   "region": "americas",
   "name": "Americas",
-  "fileCount": 34,
+  "fileCount": 35,
   "countries": [
     {
       "code": "US",
       "name": "United States",
-      "file": "part-004-cities-us.json",
-      "cityCount": 16731
+      "files": [
+        "part-004-cities-us-part1.json",
+        "part-005-cities-us-part2.json"
+      ],
+      "cityCount": 20000
     },
     {
       "code": "MX",
@@ -143,67 +146,67 @@
     },
     {
       "code": "TT",
-      "name": "TT",
+      "name": "Trinidad and Tobago",
       "file": "part-150-cities-tt.json",
       "cityCount": 25
     },
     {
       "code": "BS",
-      "name": "BS",
+      "name": "Bahamas",
       "file": "part-152-cities-bs.json",
       "cityCount": 21
     },
     {
       "code": "DM",
-      "name": "DM",
+      "name": "Dominica",
       "file": "part-156-cities-dm.json",
       "cityCount": 17
     },
     {
       "code": "GY",
-      "name": "GY",
+      "name": "Guyana",
       "file": "part-159-cities-gy.json",
       "cityCount": 14
     },
     {
       "code": "BZ",
-      "name": "BZ",
+      "name": "Belize",
       "file": "part-160-cities-bz.json",
       "cityCount": 13
     },
     {
       "code": "KN",
-      "name": "KN",
+      "name": "Saint Kitts and Nevis",
       "file": "part-161-cities-kn.json",
       "cityCount": 13
     },
     {
       "code": "SR",
-      "name": "SR",
+      "name": "Suriname",
       "file": "part-162-cities-sr.json",
       "cityCount": 13
     },
     {
       "code": "AG",
-      "name": "AG",
+      "name": "Antigua and Barbuda",
       "file": "part-166-cities-ag.json",
       "cityCount": 9
     },
     {
       "code": "VC",
-      "name": "VC",
+      "name": "Saint Vincent and the Grenadines",
       "file": "part-168-cities-vc.json",
       "cityCount": 9
     },
     {
       "code": "BB",
-      "name": "BB",
+      "name": "Barbados",
       "file": "part-171-cities-bb.json",
       "cityCount": 7
     },
     {
       "code": "GD",
-      "name": "GD",
+      "name": "Grenada",
       "file": "part-172-cities-gd.json",
       "cityCount": 7
     }
