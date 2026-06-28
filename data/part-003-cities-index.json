@@ -1,0 +1,1206 @@
+[
+  {
+    "code": "US",
+    "name": "United States",
+    "region": "americas",
+    "count": 10000,
+    "file": "cities/americas/part-004-cities-us-part1.json"
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "region": "americas",
+    "count": 6731,
+    "file": "cities/americas/part-005-cities-us-part2.json"
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "region": "europe",
+    "count": 10000,
+    "file": "cities/europe/part-006-cities-fr-part1.json"
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "region": "europe",
+    "count": 534,
+    "file": "cities/europe/part-007-cities-fr-part2.json"
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "region": "europe",
+    "count": 9852,
+    "file": "cities/europe/part-008-cities-it.json"
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "region": "americas",
+    "count": 9321,
+    "file": "cities/americas/part-009-cities-mx.json"
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "region": "europe",
+    "count": 8405,
+    "file": "cities/europe/part-010-cities-es.json"
+  },
+  {
+    "code": "RO",
+    "name": "Romania",
+    "region": "europe",
+    "count": 7949,
+    "file": "cities/europe/part-011-cities-ro.json"
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "region": "europe",
+    "count": 7104,
+    "file": "cities/europe/part-012-cities-de.json"
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "region": "americas",
+    "count": 5629,
+    "file": "cities/americas/part-013-cities-br.json"
+  },
+  {
+    "code": "RU",
+    "name": "Russia",
+    "region": "europe",
+    "count": 5523,
+    "file": "cities/europe/part-014-cities-ru.json"
+  },
+  {
+    "code": "PH",
+    "name": "Philippines",
+    "region": "asia",
+    "count": 5357,
+    "file": "cities/asia/part-015-cities-ph.json"
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "region": "asia",
+    "count": 4198,
+    "file": "cities/asia/part-016-cities-in.json"
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "region": "oceania",
+    "count": 4147,
+    "file": "cities/oceania/part-017-cities-au.json"
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "region": "asia",
+    "count": 4133,
+    "file": "cities/asia/part-018-cities-cn.json"
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom",
+    "region": "europe",
+    "count": 3879,
+    "file": "cities/europe/part-019-cities-gb.json"
+  },
+  {
+    "code": "PL",
+    "name": "Poland",
+    "region": "europe",
+    "count": 2810,
+    "file": "cities/europe/part-020-cities-pl.json"
+  },
+  {
+    "code": "AT",
+    "name": "Austria",
+    "region": "europe",
+    "count": 2360,
+    "file": "cities/europe/part-021-cities-at.json"
+  },
+  {
+    "code": "UY",
+    "name": "Uruguay",
+    "region": "americas",
+    "count": 2010,
+    "file": "cities/americas/part-022-cities-uy.json"
+  },
+  {
+    "code": "IR",
+    "name": "Iran",
+    "region": "asia",
+    "count": 1847,
+    "file": "cities/asia/part-023-cities-ir.json"
+  },
+  {
+    "code": "UA",
+    "name": "Ukraine",
+    "region": "europe",
+    "count": 1819,
+    "file": "cities/europe/part-024-cities-ua.json"
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "region": "asia",
+    "count": 1655,
+    "file": "cities/asia/part-025-cities-jp.json"
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands",
+    "region": "europe",
+    "count": 1644,
+    "file": "cities/europe/part-026-cities-nl.json"
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland",
+    "region": "europe",
+    "count": 1507,
+    "file": "cities/europe/part-027-cities-ch.json"
+  },
+  {
+    "code": "CZ",
+    "name": "Czech Republic",
+    "region": "europe",
+    "count": 1355,
+    "file": "cities/europe/part-028-cities-cz.json"
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "region": "europe",
+    "count": 1296,
+    "file": "cities/europe/part-029-cities-pt.json"
+  },
+  {
+    "code": "TH",
+    "name": "Thailand",
+    "region": "asia",
+    "count": 1241,
+    "file": "cities/asia/part-030-cities-th.json"
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "region": "americas",
+    "count": 1136,
+    "file": "cities/americas/part-031-cities-ar.json"
+  },
+  {
+    "code": "CO",
+    "name": "Colombia",
+    "region": "americas",
+    "count": 1122,
+    "file": "cities/americas/part-032-cities-co.json"
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "region": "europe",
+    "count": 1103,
+    "file": "cities/europe/part-033-cities-gr.json"
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "region": "americas",
+    "count": 1080,
+    "file": "cities/americas/part-034-cities-ca.json"
+  },
+  {
+    "code": "HU",
+    "name": "Hungary",
+    "region": "europe",
+    "count": 1074,
+    "file": "cities/europe/part-035-cities-hu.json"
+  },
+  {
+    "code": "TR",
+    "name": "Turkey",
+    "region": "asia",
+    "count": 980,
+    "file": "cities/asia/part-036-cities-tr.json"
+  },
+  {
+    "code": "JM",
+    "name": "Jamaica",
+    "region": "americas",
+    "count": 837,
+    "file": "cities/americas/part-037-cities-jm.json"
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "region": "europe",
+    "count": 800,
+    "file": "cities/europe/part-038-cities-se.json"
+  },
+  {
+    "code": "ID",
+    "name": "Indonesia",
+    "region": "asia",
+    "count": 799,
+    "file": "cities/asia/part-039-cities-id.json"
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "region": "europe",
+    "count": 666,
+    "file": "cities/europe/part-040-cities-no.json"
+  },
+  {
+    "code": "HR",
+    "name": "Croatia",
+    "region": "europe",
+    "count": 663,
+    "file": "cities/europe/part-041-cities-hr.json"
+  },
+  {
+    "code": "PA",
+    "name": "Panama",
+    "region": "americas",
+    "count": 551,
+    "file": "cities/americas/part-042-cities-pa.json"
+  },
+  {
+    "code": "BE",
+    "name": "Belgium",
+    "region": "europe",
+    "count": 549,
+    "file": "cities/europe/part-043-cities-be.json"
+  },
+  {
+    "code": "HN",
+    "name": "Honduras",
+    "region": "americas",
+    "count": 545,
+    "file": "cities/americas/part-044-cities-hn.json"
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaria",
+    "region": "europe",
+    "count": 504,
+    "file": "cities/europe/part-045-cities-bg.json"
+  },
+  {
+    "code": "NG",
+    "name": "Nigeria",
+    "region": "africa",
+    "count": 491,
+    "file": "cities/africa/part-046-cities-ng.json"
+  },
+  {
+    "code": "VN",
+    "name": "Vietnam",
+    "region": "asia",
+    "count": 488,
+    "file": "cities/asia/part-047-cities-vn.json"
+  },
+  {
+    "code": "PE",
+    "name": "Peru",
+    "region": "americas",
+    "count": 485,
+    "file": "cities/americas/part-048-cities-pe.json"
+  },
+  {
+    "code": "LC",
+    "name": "Saint Lucia",
+    "region": "americas",
+    "count": 479,
+    "file": "cities/americas/part-049-cities-lc.json"
+  },
+  {
+    "code": "PK",
+    "name": "Pakistan",
+    "region": "asia",
+    "count": 456,
+    "file": "cities/asia/part-050-cities-pk.json"
+  },
+  {
+    "code": "FI",
+    "name": "Finland",
+    "region": "europe",
+    "count": 437,
+    "file": "cities/europe/part-051-cities-fi.json"
+  },
+  {
+    "code": "DK",
+    "name": "Denmark",
+    "region": "europe",
+    "count": 430,
+    "file": "cities/europe/part-052-cities-dk.json"
+  },
+  {
+    "code": "SA",
+    "name": "Saudi Arabia",
+    "region": "asia",
+    "count": 399,
+    "file": "cities/asia/part-053-cities-sa.json"
+  },
+  {
+    "code": "GT",
+    "name": "Guatemala",
+    "region": "americas",
+    "count": 382,
+    "file": "cities/americas/part-054-cities-gt.json"
+  },
+  {
+    "code": "RS",
+    "name": "Serbia",
+    "region": "europe",
+    "count": 379,
+    "file": "cities/europe/part-055-cities-rs.json"
+  },
+  {
+    "code": "IE",
+    "name": "Ireland",
+    "region": "europe",
+    "count": 370,
+    "file": "cities/europe/part-056-cities-ie.json"
+  },
+  {
+    "code": "YE",
+    "name": "Yemen",
+    "region": "asia",
+    "count": 339,
+    "file": "cities/asia/part-057-cities-ye.json"
+  },
+  {
+    "code": "BY",
+    "name": "Belarus",
+    "region": "europe",
+    "count": 329,
+    "file": "cities/europe/part-058-cities-by.json"
+  },
+  {
+    "code": "ZA",
+    "name": "South Africa",
+    "region": "africa",
+    "count": 314,
+    "file": "cities/africa/part-059-cities-za.json"
+  },
+  {
+    "code": "SI",
+    "name": "Slovenia",
+    "region": "europe",
+    "count": 312,
+    "file": "cities/europe/part-060-cities-si.json"
+  },
+  {
+    "code": "AM",
+    "name": "Armenia",
+    "region": "asia",
+    "count": 308,
+    "file": "cities/asia/part-061-cities-am.json"
+  },
+  {
+    "code": "KR",
+    "name": "South Korea",
+    "region": "asia",
+    "count": 308,
+    "file": "cities/asia/part-062-cities-kr.json"
+  },
+  {
+    "code": "TZ",
+    "name": "Tanzania",
+    "region": "africa",
+    "count": 303,
+    "file": "cities/africa/part-063-cities-tz.json"
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "region": "americas",
+    "count": 300,
+    "file": "cities/americas/part-064-cities-cl.json"
+  },
+  {
+    "code": "DZ",
+    "name": "Algeria",
+    "region": "africa",
+    "count": 293,
+    "file": "cities/africa/part-065-cities-dz.json"
+  },
+  {
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "region": "asia",
+    "count": 259,
+    "file": "cities/asia/part-066-cities-kz.json"
+  },
+  {
+    "code": "SK",
+    "name": "Slovakia",
+    "region": "europe",
+    "count": 233,
+    "file": "cities/europe/part-067-cities-sk.json"
+  },
+  {
+    "code": "BA",
+    "name": "Bosnia and Herzegovina",
+    "region": "europe",
+    "count": 232,
+    "file": "cities/europe/part-068-cities-ba.json"
+  },
+  {
+    "code": "BO",
+    "name": "Bolivia",
+    "region": "americas",
+    "count": 228,
+    "file": "cities/americas/part-069-cities-bo.json"
+  },
+  {
+    "code": "MY",
+    "name": "Malaysia",
+    "region": "asia",
+    "count": 223,
+    "file": "cities/asia/part-070-cities-my.json"
+  },
+  {
+    "code": "MA",
+    "name": "Morocco",
+    "region": "africa",
+    "count": 222,
+    "file": "cities/africa/part-071-cities-ma.json"
+  },
+  {
+    "code": "DO",
+    "name": "Dominican Republic",
+    "region": "americas",
+    "count": 207,
+    "file": "cities/americas/part-072-cities-do.json"
+  },
+  {
+    "code": "MK",
+    "name": "North Macedonia",
+    "region": "europe",
+    "count": 194,
+    "file": "cities/europe/part-073-cities-mk.json"
+  },
+  {
+    "code": "CU",
+    "name": "Cuba",
+    "region": "americas",
+    "count": 187,
+    "file": "cities/americas/part-074-cities-cu.json"
+  },
+  {
+    "code": "AZ",
+    "name": "Azerbaijan",
+    "region": "asia",
+    "count": 180,
+    "file": "cities/asia/part-075-cities-az.json"
+  },
+  {
+    "code": "TN",
+    "name": "Tunisia",
+    "region": "africa",
+    "count": 165,
+    "file": "cities/africa/part-076-cities-tn.json"
+  },
+  {
+    "code": "EG",
+    "name": "Egypt",
+    "region": "asia",
+    "count": 163,
+    "file": "cities/asia/part-077-cities-eg.json"
+  },
+  {
+    "code": "EE",
+    "name": "Estonia",
+    "region": "europe",
+    "count": 162,
+    "file": "cities/europe/part-078-cities-ee.json"
+  },
+  {
+    "code": "CR",
+    "name": "Costa Rica",
+    "region": "americas",
+    "count": 159,
+    "file": "cities/americas/part-079-cities-cr.json"
+  },
+  {
+    "code": "NZ",
+    "name": "New Zealand",
+    "region": "oceania",
+    "count": 157,
+    "file": "cities/oceania/part-080-cities-nz.json"
+  },
+  {
+    "code": "NI",
+    "name": "Nicaragua",
+    "region": "americas",
+    "count": 155,
+    "file": "cities/americas/part-081-cities-ni.json"
+  },
+  {
+    "code": "PY",
+    "name": "Paraguay",
+    "region": "americas",
+    "count": 152,
+    "file": "cities/americas/part-082-cities-py.json"
+  },
+  {
+    "code": "IL",
+    "name": "Israel",
+    "region": "asia",
+    "count": 150,
+    "file": "cities/asia/part-083-cities-il.json"
+  },
+  {
+    "code": "LK",
+    "name": "Sri Lanka",
+    "region": "asia",
+    "count": 147,
+    "file": "cities/asia/part-084-cities-lk.json"
+  },
+  {
+    "code": "KE",
+    "name": "Kenya",
+    "region": "africa",
+    "count": 145,
+    "file": "cities/africa/part-085-cities-ke.json"
+  },
+  {
+    "code": "ET",
+    "name": "Ethiopia",
+    "region": "africa",
+    "count": 144,
+    "file": "cities/africa/part-086-cities-et.json"
+  },
+  {
+    "code": "LU",
+    "name": "LU",
+    "region": "europe",
+    "count": 144,
+    "file": "cities/europe/part-087-cities-lu.json"
+  },
+  {
+    "code": "AL",
+    "name": "Albania",
+    "region": "europe",
+    "count": 143,
+    "file": "cities/europe/part-088-cities-al.json"
+  },
+  {
+    "code": "SY",
+    "name": "Syria",
+    "region": "asia",
+    "count": 142,
+    "file": "cities/asia/part-089-cities-sy.json"
+  },
+  {
+    "code": "CM",
+    "name": "Cameroon",
+    "region": "africa",
+    "count": 139,
+    "file": "cities/africa/part-090-cities-cm.json"
+  },
+  {
+    "code": "VE",
+    "name": "Venezuela",
+    "region": "americas",
+    "count": 136,
+    "file": "cities/americas/part-091-cities-ve.json"
+  },
+  {
+    "code": "IQ",
+    "name": "Iraq",
+    "region": "asia",
+    "count": 135,
+    "file": "cities/asia/part-092-cities-iq.json"
+  },
+  {
+    "code": "UZ",
+    "name": "Uzbekistan",
+    "region": "asia",
+    "count": 135,
+    "file": "cities/asia/part-093-cities-uz.json"
+  },
+  {
+    "code": "PS",
+    "name": "Palestine",
+    "region": "asia",
+    "count": 132,
+    "file": "cities/asia/part-094-cities-ps.json"
+  },
+  {
+    "code": "LT",
+    "name": "Lithuania",
+    "region": "europe",
+    "count": 128,
+    "file": "cities/europe/part-095-cities-lt.json"
+  },
+  {
+    "code": "LV",
+    "name": "Latvia",
+    "region": "europe",
+    "count": 125,
+    "file": "cities/europe/part-096-cities-lv.json"
+  },
+  {
+    "code": "HT",
+    "name": "Haiti",
+    "region": "americas",
+    "count": 124,
+    "file": "cities/americas/part-097-cities-ht.json"
+  },
+  {
+    "code": "GH",
+    "name": "Ghana",
+    "region": "africa",
+    "count": 121,
+    "file": "cities/africa/part-098-cities-gh.json"
+  },
+  {
+    "code": "EC",
+    "name": "Ecuador",
+    "region": "americas",
+    "count": 114,
+    "file": "cities/americas/part-099-cities-ec.json"
+  },
+  {
+    "code": "GE",
+    "name": "Georgia",
+    "region": "asia",
+    "count": 110,
+    "file": "cities/asia/part-100-cities-ge.json"
+  },
+  {
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "region": "africa",
+    "count": 109,
+    "file": "cities/africa/part-101-cities-zw.json"
+  },
+  {
+    "code": "KH",
+    "name": "Cambodia",
+    "region": "asia",
+    "count": 107,
+    "file": "cities/asia/part-102-cities-kh.json"
+  },
+  {
+    "code": "GM",
+    "name": "Gambia",
+    "region": "africa",
+    "count": 104,
+    "file": "cities/africa/part-103-cities-gm.json"
+  },
+  {
+    "code": "AF",
+    "name": "Afghanistan",
+    "region": "asia",
+    "count": 100,
+    "file": "cities/asia/part-104-cities-af.json"
+  },
+  {
+    "code": "PG",
+    "name": "Papua New Guinea",
+    "region": "oceania",
+    "count": 100,
+    "file": "cities/oceania/part-105-cities-pg.json"
+  },
+  {
+    "code": "CY",
+    "name": "CY",
+    "region": "europe",
+    "count": 95,
+    "file": "cities/europe/part-106-cities-cy.json"
+  },
+  {
+    "code": "CI",
+    "name": "Ivory Coast",
+    "region": "africa",
+    "count": 95,
+    "file": "cities/africa/part-107-cities-ci.json"
+  },
+  {
+    "code": "BF",
+    "name": "Burkina Faso",
+    "region": "africa",
+    "count": 92,
+    "file": "cities/africa/part-108-cities-bf.json"
+  },
+  {
+    "code": "SL",
+    "name": "Sierra Leone",
+    "region": "africa",
+    "count": 91,
+    "file": "cities/africa/part-109-cities-sl.json"
+  },
+  {
+    "code": "UG",
+    "name": "Uganda",
+    "region": "africa",
+    "count": 91,
+    "file": "cities/africa/part-110-cities-ug.json"
+  },
+  {
+    "code": "MT",
+    "name": "MT",
+    "region": "europe",
+    "count": 87,
+    "file": "cities/europe/part-111-cities-mt.json"
+  },
+  {
+    "code": "JO",
+    "name": "Jordan",
+    "region": "asia",
+    "count": 82,
+    "file": "cities/asia/part-112-cities-jo.json"
+  },
+  {
+    "code": "FM",
+    "name": "FM",
+    "region": "oceania",
+    "count": 80,
+    "file": "cities/oceania/part-113-cities-fm.json"
+  },
+  {
+    "code": "NP",
+    "name": "Nepal",
+    "region": "asia",
+    "count": 77,
+    "file": "cities/asia/part-114-cities-np.json"
+  },
+  {
+    "code": "BW",
+    "name": "Botswana",
+    "region": "africa",
+    "count": 75,
+    "file": "cities/africa/part-115-cities-bw.json"
+  },
+  {
+    "code": "MM",
+    "name": "Myanmar",
+    "region": "asia",
+    "count": 74,
+    "file": "cities/asia/part-116-cities-mm.json"
+  },
+  {
+    "code": "IS",
+    "name": "IS",
+    "region": "europe",
+    "count": 73,
+    "file": "cities/europe/part-117-cities-is.json"
+  },
+  {
+    "code": "SN",
+    "name": "Senegal",
+    "region": "africa",
+    "count": 73,
+    "file": "cities/africa/part-118-cities-sn.json"
+  },
+  {
+    "code": "AO",
+    "name": "Angola",
+    "region": "africa",
+    "count": 72,
+    "file": "cities/africa/part-119-cities-ao.json"
+  },
+  {
+    "code": "MD",
+    "name": "MD",
+    "region": "europe",
+    "count": 72,
+    "file": "cities/europe/part-120-cities-md.json"
+  },
+  {
+    "code": "NE",
+    "name": "Niger",
+    "region": "africa",
+    "count": 71,
+    "file": "cities/africa/part-121-cities-ne.json"
+  },
+  {
+    "code": "SD",
+    "name": "Sudan",
+    "region": "africa",
+    "count": 71,
+    "file": "cities/africa/part-122-cities-sd.json"
+  },
+  {
+    "code": "TJ",
+    "name": "Tajikistan",
+    "region": "asia",
+    "count": 71,
+    "file": "cities/asia/part-123-cities-tj.json"
+  },
+  {
+    "code": "ZM",
+    "name": "Zambia",
+    "region": "africa",
+    "count": 71,
+    "file": "cities/africa/part-124-cities-zm.json"
+  },
+  {
+    "code": "CD",
+    "name": "DR Congo",
+    "region": "africa",
+    "count": 67,
+    "file": "cities/africa/part-125-cities-cd.json"
+  },
+  {
+    "code": "BD",
+    "name": "Bangladesh",
+    "region": "asia",
+    "count": 64,
+    "file": "cities/asia/part-126-cities-bd.json"
+  },
+  {
+    "code": "MW",
+    "name": "Malawi",
+    "region": "africa",
+    "count": 61,
+    "file": "cities/africa/part-127-cities-mw.json"
+  },
+  {
+    "code": "GN",
+    "name": "Guinea",
+    "region": "africa",
+    "count": 54,
+    "file": "cities/africa/part-128-cities-gn.json"
+  },
+  {
+    "code": "LY",
+    "name": "Libya",
+    "region": "africa",
+    "count": 54,
+    "file": "cities/africa/part-129-cities-ly.json"
+  },
+  {
+    "code": "KG",
+    "name": "Kyrgyzstan",
+    "region": "asia",
+    "count": 53,
+    "file": "cities/asia/part-130-cities-kg.json"
+  },
+  {
+    "code": "SO",
+    "name": "Somalia",
+    "region": "africa",
+    "count": 51,
+    "file": "cities/africa/part-131-cities-so.json"
+  },
+  {
+    "code": "TD",
+    "name": "Chad",
+    "region": "africa",
+    "count": 49,
+    "file": "cities/africa/part-132-cities-td.json"
+  },
+  {
+    "code": "NA",
+    "name": "Namibia",
+    "region": "africa",
+    "count": 48,
+    "file": "cities/africa/part-133-cities-na.json"
+  },
+  {
+    "code": "ML",
+    "name": "Mali",
+    "region": "africa",
+    "count": 47,
+    "file": "cities/africa/part-134-cities-ml.json"
+  },
+  {
+    "code": "MR",
+    "name": "Mauritania",
+    "region": "africa",
+    "count": 42,
+    "file": "cities/africa/part-135-cities-mr.json"
+  },
+  {
+    "code": "MN",
+    "name": "Mongolia",
+    "region": "asia",
+    "count": 40,
+    "file": "cities/asia/part-136-cities-mn.json"
+  },
+  {
+    "code": "TW",
+    "name": "Taiwan",
+    "region": "asia",
+    "count": 40,
+    "file": "cities/asia/part-137-cities-tw.json"
+  },
+  {
+    "code": "MZ",
+    "name": "Mozambique",
+    "region": "africa",
+    "count": 38,
+    "file": "cities/africa/part-138-cities-mz.json"
+  },
+  {
+    "code": "KI",
+    "name": "KI",
+    "region": "oceania",
+    "count": 37,
+    "file": "cities/oceania/part-139-cities-ki.json"
+  },
+  {
+    "code": "BJ",
+    "name": "Benin",
+    "region": "africa",
+    "count": 36,
+    "file": "cities/africa/part-140-cities-bj.json"
+  },
+  {
+    "code": "TM",
+    "name": "Turkmenistan",
+    "region": "asia",
+    "count": 30,
+    "file": "cities/asia/part-141-cities-tm.json"
+  },
+  {
+    "code": "AE",
+    "name": "United Arab Emirates",
+    "region": "asia",
+    "count": 30,
+    "file": "cities/asia/part-142-cities-ae.json"
+  },
+  {
+    "code": "CV",
+    "name": "Cape Verde",
+    "region": "africa",
+    "count": 28,
+    "file": "cities/africa/part-143-cities-cv.json"
+  },
+  {
+    "code": "GA",
+    "name": "Gabon",
+    "region": "africa",
+    "count": 28,
+    "file": "cities/africa/part-144-cities-ga.json"
+  },
+  {
+    "code": "OM",
+    "name": "Oman",
+    "region": "asia",
+    "count": 28,
+    "file": "cities/asia/part-145-cities-om.json"
+  },
+  {
+    "code": "LB",
+    "name": "Lebanon",
+    "region": "asia",
+    "count": 26,
+    "file": "cities/asia/part-146-cities-lb.json"
+  },
+  {
+    "code": "MH",
+    "name": "MH",
+    "region": "oceania",
+    "count": 26,
+    "file": "cities/oceania/part-147-cities-mh.json"
+  },
+  {
+    "code": "SG",
+    "name": "Singapore",
+    "region": "asia",
+    "count": 26,
+    "file": "cities/asia/part-148-cities-sg.json"
+  },
+  {
+    "code": "KW",
+    "name": "Kuwait",
+    "region": "asia",
+    "count": 25,
+    "file": "cities/asia/part-149-cities-kw.json"
+  },
+  {
+    "code": "TT",
+    "name": "TT",
+    "region": "americas",
+    "count": 25,
+    "file": "cities/americas/part-150-cities-tt.json"
+  },
+  {
+    "code": "TG",
+    "name": "Togo",
+    "region": "africa",
+    "count": 22,
+    "file": "cities/africa/part-151-cities-tg.json"
+  },
+  {
+    "code": "BS",
+    "name": "BS",
+    "region": "americas",
+    "count": 21,
+    "file": "cities/americas/part-152-cities-bs.json"
+  },
+  {
+    "code": "FJ",
+    "name": "Fiji",
+    "region": "oceania",
+    "count": 20,
+    "file": "cities/oceania/part-153-cities-fj.json"
+  },
+  {
+    "code": "WS",
+    "name": "WS",
+    "region": "oceania",
+    "count": 20,
+    "file": "cities/oceania/part-154-cities-ws.json"
+  },
+  {
+    "code": "LR",
+    "name": "Liberia",
+    "region": "africa",
+    "count": 18,
+    "file": "cities/africa/part-155-cities-lr.json"
+  },
+  {
+    "code": "DM",
+    "name": "DM",
+    "region": "americas",
+    "count": 17,
+    "file": "cities/americas/part-156-cities-dm.json"
+  },
+  {
+    "code": "PW",
+    "name": "PW",
+    "region": "oceania",
+    "count": 15,
+    "file": "cities/oceania/part-157-cities-pw.json"
+  },
+  {
+    "code": "QA",
+    "name": "Qatar",
+    "region": "asia",
+    "count": 15,
+    "file": "cities/asia/part-158-cities-qa.json"
+  },
+  {
+    "code": "GY",
+    "name": "GY",
+    "region": "americas",
+    "count": 14,
+    "file": "cities/americas/part-159-cities-gy.json"
+  },
+  {
+    "code": "BZ",
+    "name": "BZ",
+    "region": "americas",
+    "count": 13,
+    "file": "cities/americas/part-160-cities-bz.json"
+  },
+  {
+    "code": "KN",
+    "name": "KN",
+    "region": "americas",
+    "count": 13,
+    "file": "cities/americas/part-161-cities-kn.json"
+  },
+  {
+    "code": "SR",
+    "name": "SR",
+    "region": "americas",
+    "count": 13,
+    "file": "cities/americas/part-162-cities-sr.json"
+  },
+  {
+    "code": "DJ",
+    "name": "Djibouti",
+    "region": "africa",
+    "count": 12,
+    "file": "cities/africa/part-163-cities-dj.json"
+  },
+  {
+    "code": "RW",
+    "name": "Rwanda",
+    "region": "africa",
+    "count": 12,
+    "file": "cities/africa/part-164-cities-rw.json"
+  },
+  {
+    "code": "ER",
+    "name": "Eritrea",
+    "region": "africa",
+    "count": 11,
+    "file": "cities/africa/part-165-cities-er.json"
+  },
+  {
+    "code": "AG",
+    "name": "AG",
+    "region": "americas",
+    "count": 9,
+    "file": "cities/americas/part-166-cities-ag.json"
+  },
+  {
+    "code": "BH",
+    "name": "Bahrain",
+    "region": "asia",
+    "count": 9,
+    "file": "cities/asia/part-167-cities-bh.json"
+  },
+  {
+    "code": "VC",
+    "name": "VC",
+    "region": "americas",
+    "count": 9,
+    "file": "cities/americas/part-168-cities-vc.json"
+  },
+  {
+    "code": "TV",
+    "name": "TV",
+    "region": "oceania",
+    "count": 9,
+    "file": "cities/oceania/part-169-cities-tv.json"
+  },
+  {
+    "code": "TO",
+    "name": "TO",
+    "region": "oceania",
+    "count": 8,
+    "file": "cities/oceania/part-170-cities-to.json"
+  },
+  {
+    "code": "BB",
+    "name": "BB",
+    "region": "americas",
+    "count": 7,
+    "file": "cities/americas/part-171-cities-bb.json"
+  },
+  {
+    "code": "GD",
+    "name": "GD",
+    "region": "americas",
+    "count": 7,
+    "file": "cities/americas/part-172-cities-gd.json"
+  },
+  {
+    "code": "NR",
+    "name": "NR",
+    "region": "oceania",
+    "count": 7,
+    "file": "cities/oceania/part-173-cities-nr.json"
+  },
+  {
+    "code": "SB",
+    "name": "SB",
+    "region": "oceania",
+    "count": 7,
+    "file": "cities/oceania/part-174-cities-sb.json"
+  },
+  {
+    "code": "VU",
+    "name": "VU",
+    "region": "oceania",
+    "count": 7,
+    "file": "cities/oceania/part-175-cities-vu.json"
+  }
+]
